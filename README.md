@@ -34,3 +34,6 @@ We did what any willing and able team would do and set out to solve the problem 
 ## When was GoFaster.io first launched?
 We quietly launched in October of 2016 to a group of beta testers, and publically launched in Janurary of 2017.
 
+## How to contact us
+Press inqueries can be sent to Cory Shaw (cory@gofaster.io)
+
