@@ -16,14 +16,14 @@ For more info about how GoFaster.io works, click the following link:
 ## Who is behind GoFaster.io?
 GoFaster.io is built by User Kind, Inc., a user experience design and development agency based in Boulder, Colorado.
 
-For more info about how User Kind, Inc., click the following link:
+For more info about User Kind, Inc., click the following link:
 [http://userkind.com](http://userkind.com)
 
 ## Why we built GoFaster.io
 
 Great user experiences start from the moment your visitors type in your domain name and press the enter key. If your site doesn't become usable in 2 seconds or less, you're probablly losing valuable customers and revenue. That first impression is critical to every product's user experience.
 
-Slow loading websites is a common problem we've come across with nearly every client project we've worked on. We've come to realize that the root cause of a slow loading website for most teams is simply a lack of awareness. 
+Slow loading websites is a common problem we've come across with nearly every client project we've worked on. We've come to realize that the root cause of a slow loading website is simply a lack of awareness. 
 
 Most teams care deeply about performance and their user experience, but lack the tools to measure and report on it effectively.
 
